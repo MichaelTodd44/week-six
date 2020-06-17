@@ -9,3 +9,5 @@ To achieve as full an understanding of the circumstances surrounding a trial as 
 
 
 Even looking through the website I realized that they have no affiliation with the Criminal Court itself, and just documents the topics. They are also working with two Universities to make this goal possible. 
+
+Here are the terms that can be related back and forth throughout the Old Bailey document. https://voyant-tools.org/?corpus=de82dd922fd01323a0ad7fd46f173cf8&query=proceedings&query=trial&query=court&mode=corpus&view=CollocatesGraph
